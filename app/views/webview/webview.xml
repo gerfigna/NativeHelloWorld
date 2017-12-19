@@ -1,0 +1,3 @@
+<Page>
+    <WebView id="webview" width="100%" height="100%" src="https://github.com/" />
+</Page>

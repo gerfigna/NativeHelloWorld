@@ -1,4 +1,5 @@
-<Page loaded="pageLoaded">
+<Page>
   <ActionBar title="My App" class="action-bar"></ActionBar>
   <!-- Your UI components go here -->
+  <Button text="Navigate to webview page" tap="tap" />
 </Page>
