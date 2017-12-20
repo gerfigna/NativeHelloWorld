@@ -11,6 +11,6 @@
 	},
 	"dependencies": {
 		"nativescript-theme-core": "~1.0.4",
-		"tns-core-modules": "~3.1.0"
+		"tns-core-modules": "^4.0.0-2017-12-20-01"
 	}
 }
